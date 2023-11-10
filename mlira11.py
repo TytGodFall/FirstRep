@@ -14,3 +14,4 @@ number = float(input_Str)
 result = math.pow(number,2)
 
 print("Based on the Given Number, We got a squared answer of: ",result) 
+print("\nA saying: The Batman Who Laughs -->HA HA HA")
